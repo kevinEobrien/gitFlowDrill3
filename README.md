@@ -17,3 +17,7 @@ Kevin- task 1: Create a new directory. Move at least one file into that director
 Ross- task 1: Added a css file.
 
 Kevin- task 2: Edit an HTML file. Add a recipe that you like using lists. 
+
+Ross- task 2: Added a new HTML file and linked it to the index.
+
+Kevin- tak 3: Edit five CSS properties.
