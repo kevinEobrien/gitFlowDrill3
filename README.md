@@ -27,3 +27,5 @@ Ross- task 3: Added a src directory.
 Kevin- task 4: Remove a file other than index.html.
 
 Ross- task 4: Both partners add a css file and link to an html file.
+
+Kevin- task 5: Create a new HTML file. Link to it from index.html
