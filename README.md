@@ -25,3 +25,5 @@ Kevin- task 3: Edit five CSS properties.
 Ross- task 3: Added a src directory.
 
 Kevin- task 4: Remove a file other than index.html.
+
+Ross- task 4: Both partners add a css file and link to an html file.
