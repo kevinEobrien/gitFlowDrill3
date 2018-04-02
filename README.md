@@ -10,6 +10,10 @@ Work with a partner to edit a project and manage your changes with git.
 5. When you complete the process with working code, you should both submit the link to the repo.
 
 ## Workflow
-Ross and I chose git workflow method.`
+Ross and I chose centralized git workflow method.`
 
-Kevin- task 1: You should create a new directory. Move at least one file into that directory.
+Kevin- task 1: Create a new directory. Move at least one file into that directory.
+
+Ross- task 1: Added a css file.
+
+Kevin- task 2: Edit an HTML file. Add a recipe that you like using lists. 
