@@ -20,4 +20,8 @@ Kevin- task 2: Edit an HTML file. Add a recipe that you like using lists.
 
 Ross- task 2: Added a new HTML file and linked it to the index.
 
-Kevin- tak 3: Edit five CSS properties.
+Kevin- task 3: Edit five CSS properties.
+
+Ross- task 3: Added a src directory.
+
+Kevin- task 4: Remove a file other than index.html.
